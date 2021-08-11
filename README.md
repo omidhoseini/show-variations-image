@@ -1,7 +1,7 @@
 # Show Variations Image
 
 Contributors: webbmakerr
-Tags: image, alt, product, woocommerce
+Tags: image, product, woocommerce, wordpress
 Requires at least: 1.0
 Stable tag: 1.0
 License: GPLv2 or later
