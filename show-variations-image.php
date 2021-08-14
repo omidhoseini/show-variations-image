@@ -1,23 +1,28 @@
 <?php
 /**
- * Plugin Name:       Show Variations Image
- * Plugin URI:        https://brpcreative.com.au
- * Description:       This plugin show variations image on single attribute.
- * Version:           1.0.1
- * Requires at least: 5.7
- * Requires PHP:      5.6
- * Author:            BRPCreative
- * Author URI:        https://brpcreative.com.au
- * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain:       show-variations-image
- * Domain Path:       /lang
+ * Show Variations Image
  *
- * @package   show-variations-image
+ * @package   ShowVariationsImage
  * @category  plugin
  * @link      https://github.com/omidhoseini/create-alt-image
  * @author    BRPCreative
- * @license   GPL v2 or later
  * @copyright Copyright (c) 2021, BRPCreative.
+ * @license   GPL v2 or later
+ *
+ * @wordpress-plugin
+ * Plugin Name:       Show Variations Image
+ * Plugin URI:        https://github.com/omidhoseini/show-variations-image
+ * Description:       This plugin show variations image on single attribute.
+ * Version:           1.1.1
+ * Requires at least: 5.8
+ * Requires PHP:      5.6
+ * Author:            BRPCreative
+ * Author URI:        https://brpcreative.com.au
+ * License:           GPL v2 or later
+ * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+ * Update URI:        https://github.com/omidhoseini/generate-alt-tag
+ * Text Domain:       show-variations-image
+ * Domain Path:       /lang
  */
 
 use SVI\Inc\Classes\SVIRegister;
