@@ -3,14 +3,14 @@
  * Plugin Name:       Show Variations Image
  * Plugin URI:        https://brpcreative.com.au
  * Description:       This plugin show variations image on single attribute.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Requires at least: 5.7
  * Requires PHP:      5.6
  * Author:            BRPCreative
  * Author URI:        https://brpcreative.com.au
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       show-variations-image
- * Domain Path:       /languages
+ * Domain Path:       /lang
  *
  * @package   show-variations-image
  * @category  plugin
