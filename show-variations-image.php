@@ -20,7 +20,7 @@
  * Author URI:        https://brpcreative.com.au
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
- * Update URI:        https://github.com/omidhoseini/generate-alt-tag
+ * Update URI:        https://github.com/omidhoseini/show-variations-image
  * Text Domain:       show-variations-image
  * Domain Path:       /lang
  */
