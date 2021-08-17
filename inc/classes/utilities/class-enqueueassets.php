@@ -41,6 +41,10 @@ class EnqueueAssets {
 	 */
 	public function svi__show_variations_image_script() {
 
+		if ( ! \is_product() ) :
+			return;
+		endif;
+
 		// Include gat-tailwind file.
 		wp_register_script(
 			'svi-show-variations-image',
