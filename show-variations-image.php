@@ -13,7 +13,7 @@
  * Plugin Name:       Show Variations Image
  * Plugin URI:        https://github.com/omidhoseini/show-variations-image
  * Description:       This plugin show variations image on single attribute.
- * Version:           1.1.1
+ * Version:           1.1.2
  * Requires at least: 5.8
  * Requires PHP:      5.6
  * Author:            BRPCreative
